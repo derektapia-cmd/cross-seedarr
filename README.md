@@ -36,6 +36,8 @@ python wizard.py
 3. Follow the interactive prompts. The wizard will scan your system, ask for approval to create missing directories, validate your drives, and configure your config.js file.
 
 |----------:🛠️ What it Modifies:----------|
+
+
 This script directly modifies the cross-seed configuration file located at:
 C:\Users\<YourUsername>\AppData\Local\cross-seed\config.js
 
